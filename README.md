@@ -3,16 +3,16 @@
 ## Structure
 
 * USS
-  * CC (Constitution-Class)
+  * CC (Constitution-Class) (Tech - Local)
     * Ahwahnee
-    * Constellation
-    * Defiant
-    * Enteprise
-    * Hood
+    * Constellation (Docker compose)
+    * Defiant 
+    * Enteprise (gitHub code) 
+    * Hood (documentations)
     * Intrepid
     * Koroloev
     * Lexington
-    * Potemkin
-  * EC (Excelsior-Class)
-    * Berlin
-    * Cairo
+    * Potemkin (Docker volumes)
+  * EC (Excelsior-Class) (Tech Offical)
+    * Berlin (Office)
+    * Cairo (Free lance)
